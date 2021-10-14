@@ -1,3 +1,7 @@
+* {
+font-family: Arial, Helvetica, sans-serif;
+}
+
 .h-10px {
     height: 10px;
 }
@@ -8,4 +12,20 @@
 
 .h-20px {
     height: 20px;
+}
+
+.h-40px {
+    height: 40px;
+}
+
+.bg-1 {
+    background-color: #cd3d0f;
+}
+
+#hero {
+    background-image: url(./img/jumbo-bg.png);
+    height: 675px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
