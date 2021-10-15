@@ -18,8 +18,16 @@ font-family: Arial, Helvetica, sans-serif;
     height: 40px;
 }
 
+.h-675px {
+    height: 675px;
+}
+
 .bg-1 {
     background-color: #cd3d0f;
+}
+
+.w-100 {
+    width: 100%;
 }
 
 #hero {
@@ -28,4 +36,8 @@ font-family: Arial, Helvetica, sans-serif;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.rounded-thumbnail {
+    border-radius: 15px;
 }
